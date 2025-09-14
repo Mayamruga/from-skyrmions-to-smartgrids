@@ -7,9 +7,4 @@ From Skyrmions to Smart Grids is a time-series forecasting project that predicts
 
 <br>
 
-==========================================================================================
-<br>
-
-<br>
-
 This project bridges physics-inspired thinking with energy analytics. Using real-world electricity consumption data, we design a forecasting pipeline that starts with classical statistical models and scales up to deep learning architectures like LSTM, GRU, and Transformers. The workflow encompasses data preprocessing, feature engineering, model benchmarking, prediction visualization, and deployment in an interactive web application to showcase practical smart grid forecasting.
